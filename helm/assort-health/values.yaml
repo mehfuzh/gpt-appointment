@@ -1,0 +1,14 @@
+# Default values for nlu.
+# This is a YAML-formatted file.
+namespace: agent
+image: tecsius.azurecr.io/agent:latest
+base_url: agent.tecsius.co
+deepgram_api_key: ""
+openai_api_key: ""
+azure_speech_key: ""
+azure_speech_region: eastus
+twilio_account_sid: ""
+twilio_auth_token: ""
+redis_host: ""
+redis_password: ""
+redis_port: "38297"

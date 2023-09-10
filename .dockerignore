@@ -1,0 +1,12 @@
+nlp_data/
+.env/
+notebook/.ipynb_checkpoints/
+venv/
+m1/
+aws/
+.idea/
+.vscore/
+helm/
+scripts/
+Makefile
+Dockerfile
