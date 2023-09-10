@@ -1,3 +1,5 @@
 .env
 override.yaml
 venv/
+.idea
+__pycache__
